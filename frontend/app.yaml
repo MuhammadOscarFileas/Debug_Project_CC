@@ -1,5 +1,5 @@
 runtime: nodejs20
-service: projek-akhir-072-096 # Nama service Anda
+service: projek-akhir-072-096-debug # Nama service Anda
 instance_class: F1
 
 handlers:
